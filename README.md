@@ -66,10 +66,10 @@ You can check out my [CV here](https://link-to-your-cv).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        width="48" height="48" alt="Git"/>
 </a>
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noopener">
+<!-- GitHub (white logo for dark theme) -->
+<a href="https://github.com/nkostousov" target="_blank" rel="noopener">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-       width="48" height="48" alt="GitHub" style="filter: invert(1);"/>
+       width="48" height="48" alt="GitHub logo" style="filter: invert(1);"/>
 </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noopener">
