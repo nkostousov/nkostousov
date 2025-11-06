@@ -66,11 +66,16 @@ You can check out my [CV here](https://link-to-your-cv).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        width="48" height="48" alt="Git"/>
 </a>
-<!-- GitHub (original logo with white background) -->
+<!-- GitHub (auto light/dark) -->
 <a href="https://github.com/nkostousov" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="48" height="48" alt="GitHub logo"
-       style="background-color:white; border-radius:8px; padding:3px;"/>
+  <picture>
+    <!-- тёмная тема: белая иконка -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+    <!-- светлая тема: чёрная иконка -->
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000">
+    <!-- fallback -->
+    <img src="https://cdn.simpleicons.org/github/000000" width="48" height="48" alt="GitHub">
+  </picture>
 </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noopener">
