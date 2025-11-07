@@ -11,7 +11,7 @@
 My name is **Nikita Kostousov**, and I'm a **Junior QA Engineer** with a strong focus on ensuring product quality through systematic testing, attention to detail, and critical thinking.  
 I have hands-on experience in **web, API, mobile, and database testing**, using modern QA tools and real-world scenarios to analyze functionality and improve user experience.  
 
-You can check out my [CV here](https://link-to-your-cv).
+You can check out my [CV here](https://drive.google.com/file/d/1qG7ZQPnPHg-XpAAnmZujEvv76xO_ihxv/view?usp=sharing).
 
 ---
 
@@ -109,12 +109,24 @@ You can check out my [CV here](https://link-to-your-cv).
 </a>
 
 ---
+## 🧠 Test Artifacts   
+
+- 🧩 [**Testing Theory**](https://github.com/nkostousov/theory) — fundamentals of QA and requirement analysis.  
+- 🧩 [**Test Design**](https://github.com/nkostousov/design) — application of key test design techniques.  
+- 🧩 [**Test Documentation**](https://github.com/nkostousov/docs) — checklists, test suites, bug reports, and test runs for QA projects.  
+- 🧩 [**Web Testing**](https://github.com/nkostousov/WEB) — functional and exploratory testing of an online store.  
+- 🧩 [**API Testing**](https://github.com/nkostousov/api) — REST and SOAP testing via Postman; backend validation and response analysis.  
+- 🧩 [**Mobile Testing**](https://github.com/nkostousov/mobile) — manual Android testing, bug reports, and network traffic inspection using Charles Proxy.  
+- 🧩 [**Database Testing**](https://github.com/nkostousov/database) — SQL and NoSQL queries for data validation (MySQL, MongoDB).  
+- 🧩 [**Git & Bash**](https://github.com/nkostousov/git_bash) — basic Git commands and Bash.  
+
+---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [your_email@example.com](mailto:your_email@example.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 💬 **Telegram:** [@yourtelegram](https://t.me/yourtelegram)
+- 📧 **Email:** [kostousovnikita0901@gmail.com](mailto:kostousovnikita0901@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/nikitakostousov](linkedin.com/in/nikitakostousov)  
+- 💬 **Telegram:** [@n_kostousov](https://t.me/n_kostousov)
 
 ---
 
