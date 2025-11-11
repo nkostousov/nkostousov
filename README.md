@@ -11,7 +11,7 @@
 My name is **Nikita Kostousov**, and I'm a **Junior QA Engineer** with a strong focus on ensuring product quality through systematic testing, attention to detail, and critical thinking.  
 I have hands-on experience in **web, API, mobile, and database testing**, using modern QA tools and real-world scenarios to analyze functionality and improve user experience.  
 
-You can check out my [CV here](https://drive.google.com/file/d/1qG7ZQPnPHg-XpAAnmZujEvv76xO_ihxv/view?usp=sharing).
+You can check out my [CV here](https://drive.google.com/file/d/14Z48PpVFSD9CnaA9o608tBJ2NrtrPIUu/view?usp=sharing).
 
 ---
 
