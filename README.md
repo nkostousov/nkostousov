@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29286660-12a3-4d6c-af00-edcbfaae6730?raw=true"
+  <img src="https://github.com/user-attachments/assets/71221a89-5eec-4f07-b4a6-34423223a371"
        alt="Nikita Kostousov – Junior QA Engineer"
        width="100%">
 </p>
