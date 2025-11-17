@@ -124,7 +124,7 @@ You can check out my [CV here](https://drive.google.com/file/d/1tzu_U3MJJpBpW3dD
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [kostousovnikita0901@gmail.com](mailto:kostousovnikita0901@gmail.com)  
+- 📧 **Email:** [qakostousovnikita0901@gmail.com](mailto:qakostousovnikita0901@gmail.com)  
 - 💼 **LinkedIn:** [nikitakostousov](https://www.linkedin.com/in/nikitakostousov/)  
 - 💬 **Telegram:** [@n_kostousov](https://t.me/n_kostousov)
 
